@@ -1,0 +1,6 @@
+[submodule "coding-test-frontend"]
+	path = coding-test-frontend
+	url = git@github.com:hunlam97/coding-test-frontend.git
+[submodule "coding-test-serverless"]
+	path = coding-test-serverless
+	url = git@github.com:hunlam97/coding-test-serverless.git
